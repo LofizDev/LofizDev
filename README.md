@@ -1,5 +1,4 @@
-### Hi there 👋, I'm <a href="https://ayushkul.github.io/" target="_blank">
-  Khoi Lam</a> 👨‍💻
+### Hi there 👋, I'm <a href="https://LofizDev.github.io/" target="_blank">FrontEnd Deverloper</a> 👨‍💻
 
 <!--
 **LofizDev/LofizDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
