@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Lâm Nhật Khôi</h1>
+<h3 align="center">Hi 👋, I'm Lam Nhat Khoi </h3>
 
 - 🔭 I’m currently working on **Apprentissage React JS**
 - 🌱 I’m currently learning **Redux**
