@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Apprentissage React JS**
 - 🌱 I’m currently learning **Redux**
-- 👯 I’m looking for job **FrontEnd Deverloper**
+- ⚡ I’m looking for job **FrontEnd Deverloper**
 
 
 ## Connect with me:  khoilam.dev@gmail.com
