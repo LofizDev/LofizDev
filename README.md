@@ -1,13 +1,14 @@
 
 
-<h3 align="center">Hi 👋, I'm Lam Nhat Khoi </h3>
+<h2 align="center">Hi 👋, I'm Lam Nhat Khoi </h2>
 
 - 🔭 I’m currently working on **Apprentissage React JS**
 - 🌱 I’m currently learning **Redux**
 - 👯 I’m looking for job **FrontEnd Deverloper**
 
 
-### Connect with me: khoilam.dev@gmail.com
+### Connect with me: 
+ **khoilam.dev@gmail.com**
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
