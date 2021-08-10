@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Apprentissage React JS**
+- 🔭 I’m currently working on **React JS**
 - 🌱 I’m currently learning **Redux**
 - ⚡ I’m looking for job **FrontEnd Deverloper**
 
