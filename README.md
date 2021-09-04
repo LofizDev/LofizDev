@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **React JS**
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux,TypeScript**
 - ⚡ I’m looking for job **FrontEnd Deverloper**
 
 
