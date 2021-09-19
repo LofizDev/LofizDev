@@ -15,7 +15,6 @@ Hello World!!
 
 
 
-## Connect with me:  khoilam.dev@gmail.com
 
 
 
