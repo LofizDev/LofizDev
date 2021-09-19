@@ -1,10 +1,8 @@
 
 
-<h2 align="center">Hi 👋, I'm Lam Nhat Khoi </h2>  
-
 
 ----------------------------------------
-Hello World!!
+Lam Nhat Khoi Hello World!!
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
